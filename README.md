@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Govind-Kumar1
 - 👀 I’m interested in Full Stack development. DSA , CP
-- 🌱 I’m currently learning  backend
+- 🌱 I’m currently learning  genAi 
 - 💞️ I’m looking to collaborate on real projects
 - 📫 How to reach me  email govimdkumar407@gmail.com
 
