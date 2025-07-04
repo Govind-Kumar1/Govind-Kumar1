@@ -45,4 +45,4 @@ React • Tailwind CSS • Node.js • Express • MongoDB • C++ • JavaScrip
 📫 **Connect With Me**
 
 - 📧 govindkumarhbtu@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/govind-kumar-hbtu/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/govind-kumar-552414253/)
