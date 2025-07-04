@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govind Kumar</h1>
-<h3 align="center">Frontend Developer | CSE @ HBTU | SDE Intern @ TAPITT</h3>
+<h3 align="center">MERN Stack Developer | CSE @ HBTU | SDE Intern @ TAPITT</h3>
 
 ---
 
@@ -14,14 +14,14 @@
 
 🛠️ **Tech Stack**
 
-React • Tailwind CSS • Node.js • Express • MongoDB • C++ • JavaScript • Git
+React • Tailwind CSS • Node.js • Express • MongoDB • SQL • Prisma • C++ • JavaScript • Git
 
 ---
 
 💼 **Experience**
 
-- 🖥️ SDE Intern (Frontend), TAPITT Digital *(June 2025 – Present)*
-- 🛠️ Frontend Dev, Hobby Sub Council, HBTU
+- 🖥️ SDE Intern (MERN Stack), TAPITT Digital *(June 2025 – Present)*
+- 🛠️ MERN Stack Dev, Hobby Sub Council, HBTU
 - 🔧 Web Associate, Aeroclub HBTU *(2023–2024)*
 
 ---
@@ -29,11 +29,9 @@ React • Tailwind CSS • Node.js • Express • MongoDB • C++ • JavaScrip
 🏆 **Highlights**
 
 - 🥇 1st Rank — College Coding Hackathon  
-- ⭐ CodeChef: **4★ **  
+- ⭐ CodeChef: **4★**  
 - 🛡️ LeetCode: **Knight**  
 - ✅ 500+ DSA problems solved
-
----
 
 ---
 
