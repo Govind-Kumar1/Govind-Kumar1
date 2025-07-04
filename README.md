@@ -29,9 +29,9 @@ React • Tailwind CSS • Node.js • Express • MongoDB • C++ • JavaScrip
 🏆 **Highlights**
 
 - 🥇 1st Rank — College Coding Hackathon  
-- ⭐ CodeChef: **4★ (1650+)**  
-- 🛡️ LeetCode: **Knight (1850+)**  
-- ✅ 750+ DSA problems solved
+- ⭐ CodeChef: **4★ **  
+- 🛡️ LeetCode: **Knight**  
+- ✅ 500+ DSA problems solved
 
 ---
 
