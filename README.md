@@ -30,7 +30,8 @@ React • Tailwind CSS • Node.js • Express • MongoDB • SQL • Prisma �
 
 - 🥇 1st Rank — College Coding Hackathon  
 - ⭐ CodeChef: **4★**  
-- 🛡️ LeetCode: **Knight**  
+- 🛡️ LeetCode: **Knight**
+- 🛡️ Codeforces: **Specialist**
 - ✅ 500+ DSA problems solved
 
 ---
