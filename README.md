@@ -41,7 +41,7 @@
 💼 **Experience**
 
 - 🖥️ SDE Intern (MERN Stack), TAPITT Digital *(June 2025 – Present)*  
-- 🛠️ MERN Stack Dev, Hobby Sub Council, HBTU  
+- 🛠️ MERN Stack Dev, Hobby Sub Council, HBTU Kanpur 
 - 🔧 Web Associate, Aeroclub HBTU *(2023–2024)*  
 
 ---
