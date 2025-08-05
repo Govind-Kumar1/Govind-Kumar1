@@ -59,8 +59,8 @@
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=govindkumar-hbtu&show_icons=true&theme=radical" alt="Govind's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=govindkumar-hbtu&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Govind-Kumar1&show_icons=true&theme=radical" alt="Govind's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Govind-Kumar1&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
