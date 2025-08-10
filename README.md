@@ -52,7 +52,7 @@
 - ⭐ CodeChef: **4★**  
 - 🛡️ LeetCode: **Knight**  
 - 🛡️ Codeforces: **Specialist**  
-- ✅ 500+ DSA problems solved  
+- ✅ 750+ DSA problems solved  
 
 ---
 
