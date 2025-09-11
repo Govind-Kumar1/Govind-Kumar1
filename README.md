@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech CSE, HBTU Kanpur (2022–2026)  
 - 💻 Passionate about Web Development & DSA  
-- 🔭 Currently SDE Intern at [TAPITT Digital](https://github.com/tapittdigital)  
+- 🔭 Currently SDE Intern at [TAPITT Digital](https://tapitt.framer.website)  
 - ✅GATE 2025 Qualified  
 
 ---
