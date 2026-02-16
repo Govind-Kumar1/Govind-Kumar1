@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govind Kumar</h1>
-<h3 align="center">MERN Stack Developer | CSE @ HBTU | SDE Intern @ TAPITT</h3>
+<h3 align="center">MERN Stack Developer | CSE @ HBTU | Technical Intern @ Armada.ai</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech CSE, HBTU Kanpur (2022–2026)  
 - 💻 Passionate about Web Development & DSA  
-- 🔭 Currently SDE Intern at [TAPITT Digital](https://tapitt.framer.website)  
+- 🔭 Currently SDE Intern at armada.ai .  
 - ✅GATE 2025 Qualified  
 
 ---
